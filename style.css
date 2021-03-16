@@ -1,9 +1,14 @@
-h1 {
+body {
+    font-family: Montserrat;
+    background-color: #E5E5E5;
+}
 
+h1 {  
+    /* z-index: 2; */
 }
 
 h2 {
-    
+    color: 
 }
 
 h4 {
@@ -12,12 +17,17 @@ h4 {
 
 
 .header-container {
-
+    display: flex;    
+    background-image:  url("src/img/shea-rouda-tk4qYI9Mm5A-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    min-height: 600px;
+    
 }
 
-.header-background-img {
-
-}
 
 .header-text {
 
@@ -35,13 +45,20 @@ h4 {
 
 }
 
-.main-footer{
-
+.main-footer {
+    background: #002E6D;
+    position: absolute;
 }
+  
 
 .footer-nav {
 
 }
 .inline-list {
-
+    color: FFFFFF;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: normal;
+    font-size:24px;
+    line-height: 29px;
 }
