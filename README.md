@@ -28,4 +28,4 @@ The TDM Calculator is in a beta phase and is still undergoing testing and develo
 
 ---
 
-About  |  [**Privacy Policy**](privacy-policy.md) |  [**TDM Calculator Project**](https://www.hackforla.org/projects/tdm-calculator)
+**About**  |  [**Privacy Policy**](privacy-policy.md) |  [**TDM Calculator Project**](https://www.hackforla.org/projects/tdm-calculator)
