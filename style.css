@@ -83,6 +83,13 @@ h4 {
     font-weight: 400;
 }
 
+p {
+    color:black;
+    font-family: Calibri; 
+    font-size: 24px; 
+    font-weight: 400;
+}
+
 .laptop-mockup {
     /* position: relative;
     left: 6.25%;
