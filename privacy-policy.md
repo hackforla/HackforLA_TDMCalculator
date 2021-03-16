@@ -92,4 +92,4 @@ San Francisco, CA 94103
 
 ___
 
-[**About**](/)  |  **Privacy Policy** |  [**TDM Calculator Project**](https://www.hackforla.org/projects/tdm-calculator)
+[**About**](README.md)  |  **Privacy Policy** |  [**TDM Calculator Project**](https://www.hackforla.org/projects/tdm-calculator)
