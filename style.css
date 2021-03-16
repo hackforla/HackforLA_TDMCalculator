@@ -4,15 +4,29 @@ body {
 }
 
 h1 {  
-    /* z-index: 2; */
+    color: #0F2940;
+    text-align: center;
+    font-family: Montserrat; 
+    font-size: 80px; 
+    font-weight: 700;
+    align-items: bottom;
 }
 
 h2 {
-    color: 
-}
+    color:#0F2940;
+    text-align: center;
+    font-family: Montserrat; 
+    font-size: 60px; 
+    font-weight: 700;
+    justify-content: center;
+  }
+
 
 h4 {
-
+    color:#0F2940;
+    font-family: Calibri; 
+    font-size: 26px; 
+    font-weight: 700;
 }
 
 
@@ -24,8 +38,8 @@ h4 {
     padding: 0;
     margin: 0;
     position: relative;
-    min-height: 600px;
-    
+    min-height: 800px;
+    width: 100 vw;
 }
 
 
@@ -34,7 +48,10 @@ h4 {
 }
 
 .body-text {
-
+    color:black;
+    font-family: Calibri; 
+    font-size: 24px; 
+    font-weight: 400;
 }
 
 .logo {
@@ -54,6 +71,7 @@ h4 {
 .footer-nav {
 
 }
+
 .inline-list {
     color: FFFFFF;
     font-family: Calibri;
