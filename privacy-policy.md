@@ -1,4 +1,4 @@
-![hero](https://user-images.githubusercontent.com/37763229/111244665-8e25f780-85c0-11eb-954b-298f8ffdf248.png)
+![TDMHero-with-logo](https://user-images.githubusercontent.com/37763229/111249112-68045580-85c8-11eb-8038-a09a53133762.png)
 
 # Privacy Policy
 We respect your privacy, and recognize that we must maintain and use your information responsibly.
