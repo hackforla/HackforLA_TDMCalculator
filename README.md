@@ -24,7 +24,7 @@ The TDM Calculator is in a beta phase and is still undergoing testing and develo
 - [LADOT New Requirements for Sustainable Developments](https://ladot.lacity.org/businesses/development-review#new-requirements-for-sustainable-developments)
 - [Los Angeles City Planning, Mobility, Proposed Ordinances and Initiatives](https://planning.lacity.org/plans-policies/initiatives-policies/mobility) 
 - [Informational Video (January 2021)](https://www.youtube.com/watch?v=mAxseCqySuM)
-- [Fact Sheet - English (January 2021)](https://planning.lacity.org/odocument/d7e3780b-3155-44a4-98cf-0fd673a6612b/TDM-FactSheet_English.pdf) | [Hoja Informativa - [Español (Enero 2021)](https://planning.lacity.org/odocument/9dae2614-5b29-4dce-8b8d-9060f6900386/TDM-FactSheet_Spanish.pdf)
+- [Fact Sheet - English (January 2021)](https://planning.lacity.org/odocument/d7e3780b-3155-44a4-98cf-0fd673a6612b/TDM-FactSheet_English.pdf) | [Hoja Informativa Español (Enero 2021)](https://planning.lacity.org/odocument/9dae2614-5b29-4dce-8b8d-9060f6900386/TDM-FactSheet_Spanish.pdf)
 
 ---
 
