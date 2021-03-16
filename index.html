@@ -22,7 +22,7 @@
                 Through Human Centered Design
             </p>
         </header>
-        <section>
+        <section class="body-section">
             <h2>About the Project</h2>
                 <h4>What does TDM mean?</h4>
                 <p class="body-text">Transportation Demand Management (TDM) refers to the strategies a city uses to influence travel behavior and accommodate growing demands on its transportation system. </p>
@@ -31,32 +31,36 @@
                 <h4>TDM Program Update</h4>
                 <p class="body-text">Los Angeles Department of Transportation (LADOT) and Los Angeles City Planning (LACP) are working together to update the City’s TDM ordinance to provide Angelenos with a variety of sustainable transportation options, increase accessibility throughout the City, and reduce single-occupancy vehicle trips, which benefits the environment, public health, and can ease congestion. </p>
             </div>
-            <div>
-                <div> 
-                <span class="laptop-mockup"></span><img class="laptop-mockup" src="/src/img/laptop-mockup.png" alt="laptop mockup of TDM calcuator app">
-                <h4>What is the TDM Calculator?</h4>
-                <p class="body-text">The TDM Calculator is a tool developed to help simplify the development and implementation of the proposed updates to the City’s TDM regulations. The TDM Calculator helps communicate the compliance requirements of the proposed TDM Program to multiple stakeholders including developers of real estate projects, residents, and transportation planning practitioners. This project will ultimately help Los Angeles meet the sustainable transportation goals of the City’s Mobility Plan 2035 and the Mayor’s Green New Deal. </p>
+            <div style="display: flex; flex-direction: row;">
+                <div class="laptop-mockup" style="flex: 1;" ></div>
+                <div style="flex: 3;">
+                    <h4 style="position: relative;">What is the TDM Calculator?</h4>
+                    <p class="body-text" style="justify-self: flex start;" >The TDM Calculator is a tool developed to help simplify the development and implementation of the proposed updates to the City’s TDM regulations. The TDM Calculator helps communicate the compliance requirements of the proposed TDM Program to multiple stakeholders including developers of real estate projects, residents, and transportation planning practitioners. This project will ultimately help Los Angeles meet the sustainable transportation goals of the City’s Mobility Plan 2035 and the Mayor’s Green New Deal. </p>
+                </div> 
             </div>
+   
                 <p class="body-text">The TDM Calculator was created by Hack For LA in collaboration with the Los Angeles Department of Transportation (LADOT) and the Los Angeles Department of City Planning (LACP). Hack for LA is a local non-profit organization making an impact in Los Angeles through building digital products, programs and services using Lean-Agile methodology and user centered design. </p>
             </div>
             <div>
                 <h4>Status of the TDM Calculator</h4>
                 <p class="body-text">The TDM Calculator is in a beta phase and is still undergoing testing and development. A public use version of the TDM Calculator will be developed after the updated TDM ordinance is approved by the City Council and Mayor. </p>
             </div>
-            <div class="logos">
-                <div class="logo-item">
+            <div class="logo-container">
+                <ul>
+                <li class="logo-item">
                     <img src="src/img/bicycle-icon.png" alt="bicycle-icon">
-                </div>
-                <div class="logo-item">
+                </li>
+                <li class="logo-item">
                     <img src="src/img/pedestrian-accessibility-icon.png" alt="pedestrian-accessibility-icon">
-                </div>
-                <div class="logo-item">
+                </li>
+                <li class="logo-item">
                     <img src="src/img/transit-icon.png" alt="transit-icon">
-                </div>
-                <div class="logo-item">
+                </li>
+                <li class="logo-item">
                     <img src="src/img/parking-icon.png" alt="parking-icon">
-                </div>
-                <div>
+                </li>
+            </ul>
+                <div class="resource-container">
                     <h4>Resources from LADOT</h4>
                     <div class="body-text">
                         <a href="">LADOT New Requirements for Sustainable Developments</a> 
@@ -77,7 +81,7 @@
     
 </body>
 <footer class="main-footer">
-    <nav class="footer-nav"> 
+    <nav> 
         <div>
             <ul class="inline-list">
                 <li>
@@ -85,20 +89,25 @@
                     About
                     </a>
                 </li>
+                <li> | </li>
                 <li>
                     <a href="/private-policy" rel='next'>
                     Privacy Policy
                     </a>
                 </li>
+                <li> | </li>
                 <li>
                     <a href="https://www.hackforla.org/" rel='next'>
                     TDM Calculator Project
                     </a>
                 </li>
+                <li class="footer-logo">
+                    <div id="hfla-logo">
+                        <img src="/src/img/hackforla-logo.png" alt="hack for LA logo">
+                    </div> 
+                </li>
             </ul>
-            <div id="hfla-logo">
-                <img src="/src/img/hackforla-logo.png" alt="hack for LA logo">
-            </div> 
+            
         </div>
     </nav>
 </footer>

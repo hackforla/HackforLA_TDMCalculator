@@ -70,6 +70,12 @@ h4 {
     color: #002E6D;
 }
 
+.body-section {
+    
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 .body-text {
     color:black;
     font-family: Calibri; 
@@ -78,46 +84,101 @@ h4 {
 }
 
 .laptop-mockup {
-    position: relative;
+    /* position: relative;
     left: 6.25%;
     right: 73.26%;
     top: 57.82%;
-    bottom: 34.76%;
-    width: 295px;
-    height: 177.7px;
+    bottom: 34.76%; */
+    /* width: 295px;
+    height: 177.7px; */
     background-image: url('src/img/laptop-mockup.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
-.logo {
+.logo-container {
+    align-items: center;
+    justify-content: center;;
+}
 
+.logo-container ul {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .logo-item {
-    width:
+    flex: 1;
+    display: block;
+    grid-row: auto;
+    width: 80px;
+    height: 81px;
+  
+}
+
+.logo-container .logo-item img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo-container .resource-container {
+    display: block;
+    margin-left: calc(20% - 40px);
 }
 
 .main-footer {
+    margin-top: 5%;
     background: #002E6D;
     position: absolute;
-    width: 100 vw;
+    left: 0;
+    width: 100%;
 }
   
 
-.footer-nav {
+/* .footer-nav {
 
+} */
+
+ul.inline-list {
+    display: flex;
+    margin-block-start: 1px;
+    margin-block-end: 1px;
+    margin-bottom: 2%;
 }
 
-.inline-list {
-    color: FFFFFF;
+.main-footer .inline-list li {
+    display: block;
+    margin-top: auto;
+    color: #FFFFFF;
     font-family: Calibri;
     font-style: normal;
     font-weight: normal;
     font-size:24px;
     line-height: 29px;
     list-style-type: none;
-    float:left;
+    padding: 50px 0px 0px 20px;
+
 }
 
-#hfla-logo {
+.main-footer .inline-list a {
+    color: #FFFFFF;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: normal;
+    font-size:24px;
+    line-height: 29px;
+    list-style-type: none;
+    padding: 50px 0px 0px 20px;
+}
+
+.inline-list .footer-logo {
+    flex-grow: 1;
+}
+
+#hfla-logo img {
+    height: 20%;
+    padding-right: 3%;
     float: right;
 }
