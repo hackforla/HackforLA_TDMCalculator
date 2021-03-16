@@ -3,7 +3,7 @@
 # Privacy Policy
 We respect your privacy, and recognize that we must maintain and use your information responsibly.
 
-<span style="text-decoration:underline;">TBD WEB ADDRESS</span> is an informational website l managed by Hack for LA which is a project (of Code for America Labs, Inc. ("Code for America", "we", "us", "our"). This Privacy Policy describes how we collect, use, and protect your personal information on this website[ ](https://311-data.org). By submitting your personal information on our websites, you agree to the terms in this Privacy Policy. If you do not agree with these terms, please do not use our websites.
+[GovCalc.org](https://govecalc.org) is an informational website l managed by Hack for LA which is a project (of Code for America Labs, Inc. ("Code for America", "we", "us", "our"). This Privacy Policy describes how we collect, use, and protect your personal information on this website [GovCalc.org](https://govecalc.org). By submitting your personal information on our websites, you agree to the terms in this Privacy Policy. If you do not agree with these terms, please do not use our websites.
 
 
 ## Overview
@@ -14,17 +14,17 @@ We respect your privacy, and recognize that we must maintain and use your inform
 
 
 ## The personal information we collect
-Visiting <span style="text-decoration:underline;">TBD WEB ADDRESS</span>
+Visiting [GovCalc.org](https://govecalc.org)
 
-*   We may automatically collect and store data about your visit to <span style="text-decoration:underline;">TBD WEB ADDRESS</span>
+*   We may automatically collect and store data about your visit to [GovCalc.org](https://govecalc.org)
     *   Domain from which you access the Internet
     *   Operating system on your computer and information about the browser you used when visiting the site
     *   Date and time of your visit
     *   Pages you visited
     *   Address of the website that connects you to the Site (such as google.com or bing.com)
     *   The queries you make on our site.
-*   None of the information we collect about you when you visit <span style="text-decoration:underline;">TBD WEB ADDRESS</span> is personally identifiable.
-*   We use this non personally identifiable information to understand how the <span style="text-decoration:underline;">TBD WEB ADDRESS</span> website is used, to improve the website, and to monitor usage for security purposes.
+*   None of the information we collect about you when you visit [GovCalc.org](https://govecalc.org) is personally identifiable.
+*   We use this non personally identifiable information to understand how the [GovCalc.org](https://govecalc.org) website is used, to improve the website, and to monitor usage for security purposes.
 *   We will not collect personal information from you without your knowledge and consent, except in a few limited circumstances as described in this policy.
 
 
@@ -36,11 +36,11 @@ E-mail addresses obtained through the web site will not be sold or given to priv
 *   We use Google Analytics to understand how visitors use our site and to gather aggregate performance metrics.
 *   We’ve set up Google Analytics so that it doesn’t collect your full IP address.
 *   We don’t collect any personally identifiable information using Google Analytics, and we do not combine the information collected through Google Analytics with any personally identifiable information.
-*   Google Analytics places a cookie on your web browser to identify you as a unique user. This cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the[ Google Analytics Terms of Use](http://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/).
+*   Google Analytics places a cookie on your web browser to identify you as a unique user. This cookie cannot be used by anyone but Google. Google's ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](https://www.google.com/policies/privacy/).
 
 To provide website visitors the ability to prevent their data from being used by Google Analytics, Google has developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). This add-on instructs the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) running on websites to prohibit sending information to Google Analytics. However, the Google Analytics opt-out browser add-on does not prevent data from being sent to the City’s site.
 
-Visit[ https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/) for more info on how to opt out.
+Visit [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/) for more info on how to opt out.
 
 ## Cookies and other tracking technologies
 *   Cookies are small text files that websites place on the computers and mobile devices of people who visit those websites. Pixel tags (also called web beacons) are small blocks of code placed on websites and emails.
@@ -53,7 +53,7 @@ We use third-party service providers to track and analyze statistical usage and 
 Third-party service providers we may use include [Google Analytics](https://analytics.google.com/),[ Mixpanel](https://mixpanel.com/),[ Hotjar](https://www.hotjar.com/).
 
 ### How to opt-out of the use of cookies
-Most browsers are initially set up to accept HTTP cookies. If you want to restrict or block the cookies that are set by our Site, or any other site, you can do so through your browser setting. The ‘Help’ function in your browser should explain how. Alternatively, you can visit [www.aboutcookies.org](http://www.aboutcookies.org), which contains comprehensive information on how to do this on a wide variety of browsers. You will find general information about cookies and details on how to delete cookies from your machine.
+Most browsers are initially set up to accept HTTP cookies. If you want to restrict or block the cookies that are set by our Site, or any other site, you can do so through your browser setting. The ‘Help’ function in your browser should explain how. Alternatively, you can visit [www.aboutcookies.org](https://www.aboutcookies.org), which contains comprehensive information on how to do this on a wide variety of browsers. You will find general information about cookies and details on how to delete cookies from your machine.
 
 As required by law and similar disclosures
 *   We may access, preserve, and disclose your information if we believe doing so is required or appropriate to:
