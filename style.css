@@ -1,21 +1,28 @@
 body {
     font-family: Montserrat;
-    background-color: #E5E5E5;
+    background-color: ffffff;
 }
 
 h1 {  
-    color: #0F2940;
-    text-align: center;
-    font-family: Montserrat; 
-    font-size: 80px; 
-    font-weight: 700;
-    align-items: bottom;
+    color: #002E6D;
+    position: absolute;
+    height: 118px;
+    left: 5.99%;
+    right: 17.63%;
+    top: calc(50% - 118px/2 - 225px);
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 90px;
+    line-height: 110px;
+    
 }
 
 h2 {
     color:#0F2940;
     text-align: center;
-    font-family: Montserrat; 
+    font-family: Calibri; 
     font-size: 60px; 
     font-weight: 700;
     justify-content: center;
@@ -23,10 +30,12 @@ h2 {
 
 
 h4 {
-    color:#0F2940;
-    font-family: Calibri; 
-    font-size: 26px; 
-    font-weight: 700;
+    position: relative;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 32px;
 }
 
 
@@ -40,11 +49,25 @@ h4 {
     position: relative;
     min-height: 800px;
     width: 100 vw;
-}
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    }
 
 
 .header-text {
-
+    position: absolute;
+    height: 51px;
+    left: 5.99%;
+    right: 43.47%;
+    top: calc(50% - 51px/2 - 115.5px);
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 51px;
+    color: #002E6D;
 }
 
 .body-text {
@@ -54,17 +77,29 @@ h4 {
     font-weight: 400;
 }
 
+.laptop-mockup {
+    position: relative;
+    left: 6.25%;
+    right: 73.26%;
+    top: 57.82%;
+    bottom: 34.76%;
+    width: 295px;
+    height: 177.7px;
+    background-image: url('src/img/laptop-mockup.png');
+}
+
 .logo {
 
 }
 
 .logo-item {
-
+    width:
 }
 
 .main-footer {
     background: #002E6D;
     position: absolute;
+    width: 100 vw;
 }
   
 
@@ -79,4 +114,10 @@ h4 {
     font-weight: normal;
     font-size:24px;
     line-height: 29px;
+    list-style-type: none;
+    float:left;
+}
+
+#hfla-logo {
+    float: right;
 }
