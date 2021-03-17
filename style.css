@@ -3,6 +3,8 @@ body {
     background-color: #ffffff;
     color: #000000;
     margin: 0 0 0 0;
+    font-size: 24px; 
+    font-weight: 400;
 }
 
 body a {
@@ -33,18 +35,13 @@ body a {
 
 
 h2 {
-    color:#0F2940;
     font-size:32px; 
     font-weight: 700;
-
-  }
+}
 
 
 h4 {
-    position: relative;
-    font-family: Calibri;
     font-style: normal;
- 
     font-size: 26px;
     line-height: 32px;
 }
@@ -55,34 +52,22 @@ h4 {
     padding: 60px 120px 40px 120px;
 }
 
-.body-text {
-
-
-    font-size: 24px; 
-    font-weight: 400;
-}
-
-p {
-
-
-    font-size: 24px; 
-    font-weight: 400;
-}
-
 .laptop-mockup {
-    /* position: relative;
-    left: 6.25%;
-    right: 73.26%;
-    top: 57.82%;
-    bottom: 34.76%; */
-    /* width: 295px;
-    height: 177.7px; */
     background-image: url('src/img/Laptop-Mockup.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    z-index: 1;
 }
 
+.logo-overlay {
+    position: absolute;
+    width: 138px;
+    height: 138px;
+    bottom: 12%;
+    left:5%;
+    z-index: 4;
+}
 .logo-container ul {
     display: flex;
     padding-inline-start: 0px;
@@ -91,16 +76,12 @@ p {
 .logo-item {
     margin:40px 80px 40px 80px;
     display: block;
-    /* grid-row: auto; */
     width: 80px;
     height: 81px;
-  
 }
 
 .logo-container .logo-item img {
     display: block;
-    /* margin-left: auto;
-    margin-right: auto; */
 }
 
 .logo-container .resource-container {
