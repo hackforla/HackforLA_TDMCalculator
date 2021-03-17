@@ -85,10 +85,11 @@ p {
 
 .logo-container ul {
     display: flex;
+    padding-inline-start: 0px;
 }
 
 .logo-item {
-    margin:40px 100px 40px 100px;
+    margin:40px 80px 40px 80px;
     display: block;
     /* grid-row: auto; */
     width: 80px;
@@ -98,8 +99,8 @@ p {
 
 .logo-container .logo-item img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    /* margin-left: auto;
+    margin-right: auto; */
 }
 
 .logo-container .resource-container {
