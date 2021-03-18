@@ -57,6 +57,7 @@ h4 {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    position: relative;
     z-index: 1;
 }
 
@@ -64,8 +65,8 @@ h4 {
     position: absolute;
     width: 138px;
     height: 138px;
-    bottom: 12%;
-    left:5%;
+    bottom: 0%;
+    left:0%;
     z-index: 4;
 }
 .logo-container ul {
