@@ -1,9 +1,9 @@
+
 body {
     font-family: Calibri;
     background-color: #ffffff;
     color: #000000;
     margin: 0 0 0 0;
-    font-size: 24px; 
     font-weight: 400;
 }
 
@@ -20,36 +20,15 @@ body a {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    font-size: 60px;
 }
-
-.header-bg-img {
-    height: 75px;
-    display: flex;
-    background-color: #002E6D;
-    width: 100%;
-    justify-content: center;
-    padding-top: 25px;
-    padding-bottom: 25px;
-}
-
 
 h2 {
-    font-size:32px; 
     font-weight: 700;
 }
 
-
 h4 {
     font-style: normal;
-    font-size: 26px;
     line-height: 32px;
-}
-
-
-
-.body-section {
-    padding: 60px 120px 40px 120px;
 }
 
 .laptop-mockup {
@@ -57,27 +36,17 @@ h4 {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    z-index: 1;
+    position: relative;
 }
 
-.logo-overlay {
-    position: absolute;
-    width: 138px;
-    height: 138px;
-    bottom: 12%;
-    left:5%;
-    z-index: 4;
-}
 .logo-container ul {
     display: flex;
     padding-inline-start: 0px;
 }
 
+
 .logo-item {
-    margin:40px 80px 40px 80px;
     display: block;
-    width: 80px;
-    height: 81px;
 }
 
 .logo-container .logo-item img {
@@ -86,9 +55,9 @@ h4 {
 
 .logo-container .resource-container {
     display: block;
-    padding-right: 600px;
     padding-left:0px;
-  }
+}
+
 
 .main-footer {
     background: #002E6D;
@@ -96,8 +65,6 @@ h4 {
     left: 0;
     width: 100%;
 }
-  
-
 
 ul.inline-list {
     display: flex;
@@ -113,11 +80,8 @@ ul.inline-list {
     font-family: Calibri;
     font-style: normal;
     font-weight: normal;
-    font-size:24px;
-    line-height: 29px;
     list-style-type: none;
     padding: 15px 0px 0px 5px;
-
 }
 
 .main-footer .inline-list a {
@@ -125,12 +89,10 @@ ul.inline-list {
     font-family: Calibri;
     font-style: normal;
     font-weight: normal;
-    font-size:24px;
-    line-height: 29px;
     list-style-type: none;
-    padding: 50px 0px 0px 5px;
 }
 
+    
 .inline-list .footer-logo {
     flex-grow: 1;
 }
@@ -139,5 +101,338 @@ ul.inline-list {
     height: 20%;
     padding-right: 3%;
     float: right;
+}
 
+@media screen and (min-width: 1400px) {
+    body {
+        font-size: 24px; 
+    }
+
+    .header-bg-img h1 {
+        font-size: 60px;
+    }
+
+    .header-bg-img {
+        height: 75px;
+        display: flex;
+        background-color: #002E6D;
+        width: 100%;
+        justify-content: center;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+
+    h2 {
+        font-size:32px; 
+    }
+
+
+    h4 {
+        font-size: 26px;
+    }
+
+    .body-section {
+        padding: 60px 120px 40px 120px;
+    }
+
+    .top-container {
+        display: flex; 
+        flex-direction: row;
+    }
+
+    .laptop-mockup {
+        flex: 5; 
+        margin-right:30px;
+    }
+
+    .first-text-div {
+        flex: 3;
+    }
+
+    .logo-item {
+        margin:40px 80px 40px 80px;
+    }
+
+    .logo-container .resource-container {
+        padding-right: 600px;
+    }
+        
+    .main-footer .inline-list li {
+        font-size:24px;
+        line-height: 29px;
+    }
+        
+    .main-footer .inline-list a {
+        font-size:24px;
+        line-height: 29px;
+        padding: 50px 0px 0px 5px;    
+    }
+
+}
+
+
+
+@media screen and (max-width: 1399px) {
+    body {
+        font-size: 24px; 
+    }
+
+    body a {
+        color: #000000;
+    }
+
+    .header-bg-img h1 {
+        font-size: 60px;
+    }
+
+    .header-bg-img {
+        height: 75px;
+        display: flex;
+        background-color: #002E6D;
+        width: 100%;
+        justify-content: center;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+
+    h2 {
+        font-size:32px; 
+    }
+
+
+    h4 {
+        font-size: 26px;
+    }
+
+
+    .body-section {
+        padding: 60px 120px 40px 120px;
+    }
+
+    .top-container {
+        display: flex; 
+        flex-direction: column;
+    }
+
+    .laptop-mockup {
+        height:500px;
+    }
+
+    .logo-item {
+        margin:40px 80px 40px 80px;
+    }
+
+    .logo-container .resource-container {
+        padding-right: 0px;
+    }
+    
+    .main-footer .inline-list li {
+        font-size:24px;
+        line-height: 29px; 
+    }
+    
+    #hfla-logo img {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+
+
+
+@media screen and (max-width: 999px) {
+    body {
+        font-size: 20px; 
+    }
+
+    body a {
+        color: #000000;
+    }
+
+    .header-bg-img h1 {
+        font-size: 45px;
+    }
+
+    .header-bg-img {
+        height: 75px;
+        display: flex;
+        background-color: #002E6D;
+        width: 100%;
+        justify-content: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+
+    h2 {
+        font-size:30px; 
+    }
+
+
+    h4 {
+        font-size: 24px;
+    }
+
+
+    .body-section {
+        padding: 60px 100px 40px 100px;
+    }
+
+    .laptop-mockup {
+        height:400px;
+    }
+
+    .logo-item {
+        margin:35px 40px 35px 40px;
+    }
+    
+    .main-footer .inline-list li {
+        font-size:20px;
+        line-height: 25px;
+    }
+    
+    .main-footer .inline-list a {
+        font-size:20px;
+        line-height: 25px;
+    }
+    
+    #hfla-logo img {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    body {
+        font-size: 18px; 
+    }
+
+    body a {
+        color: #000000;
+    }
+
+    .header-bg-img h1 {
+        font-size: 40px;
+    }
+
+    .header-bg-img {
+        height: 75px;
+        display: flex;
+        background-color: #002E6D;
+        width: 100%;
+        justify-content: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+
+    h2 {
+        font-size:30px; 
+    }
+
+
+    h4 {
+        font-size: 24px;
+    }
+
+
+    .body-section {
+        padding: 30px 60px 30px 60px;
+    }
+
+    .laptop-mockup {
+        height:250px;
+    }
+
+    .logo-item {
+        margin:20px 20px 20px 20px;
+    }
+    
+    .main-footer .inline-list li {
+        font-size:18px;
+        line-height: 22px;
+    }
+    
+    .main-footer .inline-list a {
+        font-size:18px;
+        line-height: 22px;
+    }
+    
+    #hfla-logo img {
+        width: 80px;
+        height: 80px;
+    }
+}
+
+
+@media screen and (max-width: 500px) {
+    body {
+        font-size: 18px; 
+    }
+
+    body a {
+        color: #000000;
+    }
+
+    .header-bg-img h1 {
+        font-size: 22px;
+    }
+
+    .header-bg-img {
+        height: 75px;
+        display: flex;
+        background-color: #002E6D;
+        width: 100%;
+        justify-content: center;
+        padding-top: 2px;
+        padding-bottom: 2px;
+    }
+
+
+    h2 {
+        font-size:22px; 
+    }
+
+
+    h4 {
+        font-size: 18px;
+    }
+
+
+    .body-section {
+        padding: 20px 40px 30px 40px;
+    }
+
+    .laptop-mockup {
+        height:200px;
+    }
+
+    .logo-item {
+        margin:0px 12px 0px 12px;
+    }
+
+    .logo-container .logo-item img {
+        display: block;
+        width: 55px;
+        height: 55px;
+    }
+
+    
+    .main-footer .inline-list li {
+        font-size:14px;
+        line-height: 18px;
+    }
+    
+    .main-footer .inline-list a {
+        font-size:14px;
+        line-height: 18px;
+        padding: 30px 0px 0px 5px;
+    }
+    
+    #hfla-logo img {
+        width: 80px;
+        height: 80px;
+    }
 }
